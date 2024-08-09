@@ -18,9 +18,10 @@ This an online navigation tool where you can browse and get directions between a
 ![Website Demo](Demo.gif)
 
 ## How To Run
-1- clone the repo
-2- create an account on [Mapbox](https://www.mapbox.com/) and get your default token from [Here](https://account.mapbox.com/access-tokens).
-3- Run with live server
+1. clone the repo
+2. create an account on [Mapbox](https://www.mapbox.com/) and get your default token from [Here](https://account.mapbox.com/access-tokens).
+3. open script.js file in text editor paste your token in place of `'YOUR TOKEN HERE'`
+4. Run with live server
 ## Features
 - **Map Controls**: You can Zoom in, zoom out and rotate the map.
 - **Directions**: Enter any two locations and get travel directions between them, in different modes: Driving, Walking Cycling.
